@@ -1,2 +1,4 @@
 # Aiml-naan-mudhalvan
-Classification of image/text data using RNN .CNN
+AI-Powered Mask Detection
+System for Public Safety"
+
